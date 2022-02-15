@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: c9b592be-0215-c31f-6f65-02243f2987bb
 ---
@@ -170,7 +172,7 @@ Equivalent to 2-3 homeworks. Short in-class presentation at the end. Possible to
 *   System ID UAV-TT or UAV-MC from flight data and compare with expectations
 *   Evaluate the stability derivatives of the UAV-MC (or your favorite airplane)
 *   Design a longitudinal/lateral/path following autopilot for the UAV-MC and demonstrate  
-    its performance in AEROSIMTM
+    its performance in AEROSIM{{< sup "TM" >}}
 *   Your suggestion
 
 Textbooks
