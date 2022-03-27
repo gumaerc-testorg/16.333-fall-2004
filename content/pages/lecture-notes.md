@@ -79,7 +79,7 @@ Quaternions
 ([PDF]({{< baseurl >}}/resources/lecture_3))
 {{< tdclose >}}
 {{< tdopen >}}
-navion\_1.m ([M](/courses/aeronautics-and-astronautics/16-333-aircraft-stability-and-control-fall-2004/lecture-notes/navion_1.m))
+navion\_1.m ([M]({{< baseurl >}}/resources/navion_1))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -125,7 +125,7 @@ Aircraft Longitudinal Dynamics
 {{< tdclose >}}
 {{< tdopen >}}
 Matrix Diagonalization ([PDF]({{< baseurl >}}/resources/l06_modal_decomp))  
-lecture4.m ([M](/courses/aeronautics-and-astronautics/16-333-aircraft-stability-and-control-fall-2004/lecture-notes/lecture4.m))
+lecture4.m ([M]({{< baseurl >}}/resources/lecture4))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -157,7 +157,7 @@ Spiral, Roll, and Dutch Roll Modes
 ([PDF]({{< baseurl >}}/resources/lecture_8))
 {{< tdclose >}}
 {{< tdopen >}}
-lecture11.m ([M](/courses/aeronautics-and-astronautics/16-333-aircraft-stability-and-control-fall-2004/lecture-notes/lecture11.m))
+lecture11.m ([M]({{< baseurl >}}/resources/lecture11))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -217,9 +217,9 @@ Aircraft Lateral Autopilots
 ([PDF]({{< baseurl >}}/resources/lecture_12))
 {{< tdclose >}}
 {{< tdopen >}}
-ac3.m ([M](/courses/aeronautics-and-astronautics/16-333-aircraft-stability-and-control-fall-2004/lecture-notes/ac3.m))  
-newr.m ([M](/courses/aeronautics-and-astronautics/16-333-aircraft-stability-and-control-fall-2004/lecture-notes/newr.m))  
-ac3\_lat.mdl ([MDL](/courses/aeronautics-and-astronautics/16-333-aircraft-stability-and-control-fall-2004/lecture-notes/ac3_lat.mdl))
+ac3.m ([M]({{< baseurl >}}/resources/ac3))  
+newr.m ([M]({{< baseurl >}}/resources/newr))  
+ac3\_lat.mdl ([MDL]({{< baseurl >}}/resources/ac3_lat))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -236,8 +236,8 @@ Altitude Hold and Landing
 ([PDF - 1.0 MB]({{< baseurl >}}/resources/lecture_13))
 {{< tdclose >}}
 {{< tdopen >}}
-altit\_simul.m ([M](/courses/aeronautics-and-astronautics/16-333-aircraft-stability-and-control-fall-2004/lecture-notes/altit_simul.m))  
-altit.mdl ([MDL](/courses/aeronautics-and-astronautics/16-333-aircraft-stability-and-control-fall-2004/lecture-notes/altit.mdl))
+altit\_simul.m ([M]({{< baseurl >}}/resources/altit_simul))  
+altit.mdl ([MDL]({{< baseurl >}}/resources/altit))
 {{< tdclose >}}
 
 {{< trclose >}}
