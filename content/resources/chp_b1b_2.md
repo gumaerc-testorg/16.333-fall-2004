@@ -9,6 +9,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: chp_b1b_2.jpg
@@ -19,4 +20,3 @@ video_metadata:
   youtube_id: null
 ---
 A B-1 Lancer performs a fly-by during a firepower demonstration in Nevada, U.S.A. (U.S. Air Force photo by Master Sgt. Robert W. Valenca.)
-

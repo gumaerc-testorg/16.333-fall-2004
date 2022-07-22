@@ -9,6 +9,7 @@ file: /courses/16-333-aircraft-stability-and-control-fall-2004/b36a3809af23f539b
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -23,4 +24,3 @@ video_metadata:
 ---
 Summary of the topics covered in lecture:
 developing an appropriate model of a dynamic system using observed data combined with: basic mechanics, prior knowledge of relationships between signals and input/output modals.
-

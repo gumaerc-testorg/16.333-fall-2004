@@ -7,6 +7,7 @@ file: /courses/16-333-aircraft-stability-and-control-fall-2004/9befd7ea465e31f9f
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -21,4 +22,3 @@ video_metadata:
 ---
 Summary of the topics covered in lecture:
 aircraft performance, steady gliding flight, steady climb, and steady turn.
-

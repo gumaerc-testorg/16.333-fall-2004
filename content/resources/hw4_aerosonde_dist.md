@@ -5,6 +5,7 @@ file: /courses/16-333-aircraft-stability-and-control-fall-2004/2f4752de2f1ebf09c
 file_type: text/plain
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 This is a supporting file for homework 4, and contains program code.
-

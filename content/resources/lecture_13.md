@@ -7,6 +7,7 @@ file: /courses/16-333-aircraft-stability-and-control-fall-2004/76c576f96472bf305
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -21,4 +22,3 @@ video_metadata:
 ---
 Summary of the topics covered in lecture:
 altitude controller, and autolanding controller.
-

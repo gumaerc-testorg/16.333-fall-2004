@@ -6,6 +6,7 @@ file: /courses/16-333-aircraft-stability-and-control-fall-2004/945d5fdc1d10fad2f
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -19,4 +20,3 @@ video_metadata:
   youtube_id: null
 ---
 This is a supporting file for lecture 17, and contains details of topic "Hardware In the Loop Modeling and Simulation".
-

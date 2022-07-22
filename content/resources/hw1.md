@@ -5,6 +5,7 @@ file: /courses/16-333-aircraft-stability-and-control-fall-2004/9cd418226d1b336c3
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 5 problems based on stability and control.
-

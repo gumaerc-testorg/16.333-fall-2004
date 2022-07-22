@@ -5,6 +5,7 @@ file: /courses/16-333-aircraft-stability-and-control-fall-2004/c1e8477a43baad579
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 4 problems based on aerosonde vehicle.
-

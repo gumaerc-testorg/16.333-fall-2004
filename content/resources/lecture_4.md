@@ -8,6 +8,7 @@ file: /courses/16-333-aircraft-stability-and-control-fall-2004/c6eee980ed173de9d
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -22,4 +23,3 @@ video_metadata:
 ---
 Summary of the topics covered in lecture:
 aircraft nonlinear EOM, linearization ? dynamics, linearization ? forces and moments, and stability derivatives and coefficients.
-
