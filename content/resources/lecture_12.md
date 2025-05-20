@@ -3,7 +3,7 @@ content_type: resource
 description: 'Summary of the topics covered in lecture:
 
   multiloop closure, heading control: linear, and heading control: nonlinear.'
-file: /ol-ocw-studio-app/courses/16-333-aircraft-stability-and-control-fall-2004/03fb92311b62c652e222e14efb49573b_lecture_12.pdf
+file: /courses/16-333-aircraft-stability-and-control-fall-2004/03fb92311b62c652e222e14efb49573b_lecture_12.pdf
 file_size: 792131
 file_type: application/pdf
 learning_resource_types:
